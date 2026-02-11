@@ -1,5 +1,5 @@
 const API_BASE = "http://ws.audioscrobbler.com/2.0/?method={$method}&user=%user%&api_key=%api_key%&format=json"
-const API_KEY = ""
+const API_KEY = process.env.LAST_FM_KEY
 
 const constructAddress = (method) => `http://ws.audioscrobbler.com/2.0/?method=${method}&user=kreitmire&api_key=${API_KEY}&format=json`
 
