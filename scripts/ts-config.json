@@ -1,0 +1,8 @@
+{
+    "compilerOptions":{
+        "allowImportingTsExtensions": true,//this works only with below noEmit set to true
+        "noEmit": true,
+        "module": "esnext",
+        "target": "esnext",
+    }
+}
