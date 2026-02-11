@@ -9,7 +9,7 @@ layout: default
 
 # The Personal Website of *Johan A. Ortega-Rios*
 
-### <u>*Software Engineer*</u>&nbsp;&nbsp;&nbsp;<u>*Civic Technologist*</u>&nbsp;&nbsp;&nbsp;<u>*Mediocre Cook*</u>
+### ***<u>Software Engineer</u>***&nbsp;&nbsp;&nbsp;***<u>Civic Technologist</u>***&nbsp;&nbsp;&nbsp;***<u>Mediocre Cook</u>***
 
 Hi! I'm Johan. I've done a variety of work ranging from software solutions to optimize warehouse workflows, 
 a [programming language](https://github.com/IRS-Public/fact-graph) designed for modelling the tax code, to
@@ -17,7 +17,7 @@ developing the U.S. government's premier tax filing tool [Direct File](https://g
 
 I'm passionate about taking complex problems and modelling them simply and intuitively through code.
 
-I am open to full-time and part-time roles -- you can access my resume [here](Johan_Ortega-Rios_Resume.pdf).
+I am open to full-time and part-time roles -- you can access my resume [here](assets/Johan_Ortega-Rios_Resume.pdf).
 
 If you'd like to get to know me a little more, here are some tidbits updated whenever I hit deploy. The last time being %LAST_UPDATED_DATE%.
 
