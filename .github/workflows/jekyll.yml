@@ -47,7 +47,7 @@ jobs:
         uses: actions/setup-node@v6.2.0
       - name: Build with Jekyll
         # Outputs to the './_site' directory by default
-        run: npm i && npx ts-node -P ts-config.json populate_markdown.ts && bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
+        run: cd scripts && npm i && npx ts-node -P ts-config.json populate_markdown.ts && cd ../ && bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
         env:
           LAST_FM_KEY: ${{secrets.LAST_FM_API_KEY}}
           JEKYLL_ENV: production
