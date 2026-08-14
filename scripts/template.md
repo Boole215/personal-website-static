@@ -5,7 +5,7 @@ layout: default
 
 <link rel="stylesheet" href="bundle.css">
 
-<span id="navbar">[Home]() [LinkedIn]() [Github]() [Contact]()</span>
+<span id="navbar">[Home](/) [LinkedIn](https://www.linkedin.com/in/jaortegar/) [Github](https://github.com/boole215) [Contact](mailto:jortega-rios@outlook.com)</span>
 
 # The Personal Website of *Johan A. Ortega-Rios*
 
@@ -17,7 +17,7 @@ developing the U.S. government's premier tax filing tool [Direct File](https://g
 
 I'm passionate about taking complex problems and modelling them simply and intuitively through code.
 
-I am open to full-time and part-time roles -- you can access my resume [here](assets/Johan_Ortega-Rios_Resume.pdf).
+If you would like to view my resume, you can access it [here](assets/Johan_Ortega-Rios_Resume.pdf). An abridged version of my resume is [available](/resume) as well.
 
 If you'd like to get to know me a little more, here are some tidbits updated whenever I hit deploy. The last time being %LAST_UPDATED_DATE%.
 
