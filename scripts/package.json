@@ -1,6 +1,11 @@
 {
   "type": "module",
+  "scripts": {
+    "sync-blog": "tsx sync_blog_posts.ts"
+  },
   "devDependencies": {
+    "@types/node": "^22.20.2",
+    "gray-matter": "^4.0.3",
     "tsx": "^4.21.0",
     "typescript": "^5.9.3"
   }

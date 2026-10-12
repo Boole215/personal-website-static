@@ -9,22 +9,32 @@ body{
     max-width: 650px;
     margin: auto;
     background-color: #0d1117;
-    font-family: "Segoe UI";
     color: #c9d1d9;
+    line-height: 1.25;
 }
 h1{
+    font-size: 2em;
     margin-bottom: 0px;
     text-align: center;
 }
 h2{
+    font-size: 1.5em;
     margin-bottom: 0px;
 }
 h3{
+    font-size: 1.15em;
     text-align: center;
 }
 h4{
+    font-size: 1em;
     margin-top:0;
     margin-bottom:0;
+}
+h5{
+    font-size: .75em;
+}
+p {
+    font-size: 1em;
 }
 a {
     color: #58a6ff;
@@ -37,4 +47,28 @@ ul{
 }
 ol{
     columns: 2;
+}
+.post-meta{
+    color: #8b949e;
+    font-size: 0.85em;
+    text-align: center;
+    margin-top: 0;
+}
+#post-list ul{
+    columns: 1;
+    list-style: none;
+    padding-left: 0;
+}
+.hero-image,
+article.post img{
+    display: block;
+    width: 100%;
+    margin: 10px 0;
+}
+@media (min-width: 690px){
+    .hero-image,
+    article.post img{
+        width: calc(100% + 40px);
+        margin: 10px -20px;
+    }
 }

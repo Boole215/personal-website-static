@@ -39,7 +39,7 @@ layout: default
   p { margin-top: 6px; }
 </style>
 
-<span id="navbar">[Home](/) [LinkedIn](https://www.linkedin.com/in/jaortegar/) [Github](https://github.com/boole215) [Contact](mailto:jortega-rios@outlook.com)</span>
+<span id="navbar">[Home](/) [Blog](/blog) [LinkedIn](https://www.linkedin.com/in/jaortegar/) [Github](https://github.com/boole215) [Contact](mailto:jortega-rios@outlook.com)</span>
 
 ## Education
 <div class="job-header">
@@ -53,7 +53,7 @@ layout: default
   <span class="job-title">Solutions Engineer</span>
 </div>
 <div class="job-org">FarEye</div>
-I work with clients to get past the feature request and understand the actual problem underneath it, then design a solution that fits within what our platform can realistically do. That usually means weighing tradeoffs across a few possible approaches and building the case for one in a PRD that stakeholders sign off on before anything gets built. Great opportunity to travel and have expenses covered.
+I work with clients to get past the feature request and understand the actual problem underneath it, then designing a solution alongside their technical team(s) to best serve their requirements. 
 
 <div class="resume-subsection">Past</div>
 <div class="job-header">

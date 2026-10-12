@@ -1,0 +1,15 @@
+---
+layout: default
+---
+<link rel="stylesheet" href="{{ '/bundle.css' | relative_url }}">
+
+<span id="navbar">[Home](/) [Blog](/blog) [LinkedIn](https://www.linkedin.com/in/jaortegar/) [Github](https://github.com/boole215) [Contact](mailto:jortega-rios@outlook.com)</span>
+
+<article class="post">
+  <h1>{{ page.title }}</h1>
+  <p class="post-meta">{{ page.date | date: "%B %-d, %Y" }}</p>
+  {% if page.heroImage %}
+  <img class="hero-image" src="{{ page.heroImage | relative_url }}" alt="{{ page.title }}">
+  {% endif %}
+  {{ content }}
+</article>
