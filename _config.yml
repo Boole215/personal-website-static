@@ -45,3 +45,6 @@ github_username:  boole215
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+exclude:
+  - scripts/

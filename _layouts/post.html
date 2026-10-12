@@ -3,7 +3,7 @@ layout: default
 ---
 <link rel="stylesheet" href="{{ '/bundle.css' | relative_url }}">
 
-<span id="navbar"><a href="/">Home</a> <a href="/blog">Blog</a> <a href="https://www.linkedin.com/in/jaortegar/">LinkedIn</a> <a href="https://github.com/boole215">Github</a> <a href="mailto:jortega-rios@outlook.com">Contact</a></span>
+{% include navbar.html %}
 
 <article class="post">
   <h1>{{ page.title }}</h1>

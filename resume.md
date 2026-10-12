@@ -39,7 +39,7 @@ layout: default
   p { margin-top: 6px; }
 </style>
 
-<span id="navbar">[Home](/) [Blog](/blog) [LinkedIn](https://www.linkedin.com/in/jaortegar/) [Github](https://github.com/boole215) [Contact](mailto:jortega-rios@outlook.com)</span>
+{% include navbar.html %}
 
 ## Education
 <div class="job-header">

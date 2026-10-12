@@ -5,7 +5,7 @@ layout: default
 
 <link rel="stylesheet" href="bundle.css">
 
-<span id="navbar">[Home](/) [Blog](/blog) [LinkedIn](https://www.linkedin.com/in/jaortegar/) [Github](https://github.com/boole215) [Contact](mailto:jortega-rios@outlook.com)</span>
+{% include navbar.html %}
 
 # The Personal Website of *Johan A. Ortega-Rios*
 
